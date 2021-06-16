@@ -1,6 +1,7 @@
 title: My Website
 author: Tusharr Gupta
 email: guptatushar080202@gmail.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Tushar Gupta's Portfolio
 
